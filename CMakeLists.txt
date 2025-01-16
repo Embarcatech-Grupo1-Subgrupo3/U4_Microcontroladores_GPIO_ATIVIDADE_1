@@ -35,28 +35,34 @@ pico_sdk_init()
 
 # Add executable. Default name is the project name, version 0.1
 
-add_executable(tarefa_1U4 tarefa_1U4.c )
+add_executable(tarefa_1U4 
+    tarefa_1U4.c 
+    feature/buzzer.c 
+    feature/keyboard.c 
+    feature/led.c
+)
 
 pico_set_program_name(tarefa_1U4 "tarefa_1U4")
 pico_set_program_version(tarefa_1U4 "0.1")
 
 # Modify the below lines to enable/disable output over UART/USB
 pico_enable_stdio_uart(tarefa_1U4 0)
-pico_enable_stdio_usb(tarefa_1U4 0)
+pico_enable_stdio_usb(tarefa_1U4 1)
 
 # Add the standard library to the build
 target_link_libraries(tarefa_1U4
-        pico_stdlib)
+    pico_stdlib
+)
 
 # Add the standard include files to the build
 target_include_directories(tarefa_1U4 PRIVATE
-  ${CMAKE_CURRENT_LIST_DIR}
+    ${CMAKE_CURRENT_LIST_DIR}
+    ${CMAKE_CURRENT_LIST_DIR}/include
 )
 
 # Add any user requested libraries
 target_link_libraries(tarefa_1U4 
-        
-        )
+    hardware_gpio # Exemplo: pode adicionar outras bibliotecas se necessário
+)
 
 pico_add_extra_outputs(tarefa_1U4)
-
