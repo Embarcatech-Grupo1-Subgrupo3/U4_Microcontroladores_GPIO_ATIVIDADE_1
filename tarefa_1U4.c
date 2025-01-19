@@ -7,16 +7,17 @@
 
 int main(void)
 {
+    stdio_init_all();
     buzzer_init();
     keyboard_init();
     led_init();
 
     printf("Sistema inicializado.\n");
 
-    while (1)
+    while (true)
     {
-        int key = keyboard_read();
-        if (key == 1)
+        char key = keyboard_get_key();
+        if (key == '1')
         {
             led_on(1);
             buzzer_on();
