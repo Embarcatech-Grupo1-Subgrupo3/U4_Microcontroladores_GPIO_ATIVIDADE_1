@@ -78,13 +78,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #### **Websites**
 -   **[Visual Studio code](https://code.visualstudio.com)**
 -   **[Github](https://github.com)**
+-   **[Wokwi Web](https://gcc.gnu.org)**
 
 
 #### **Utilitários**
 
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  → Extensions:  **[C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools), [C/C++ Compile Run](https://marketplace.visualstudio.com/items?itemName=danielpinto8zz6.c-cpp-compile-run) e [Raspberry Pi Pico](https://marketplace.visualstudio.com/items?itemName=raspberry-pi.raspberry-pi-pico)**
 -   **[Git](https://git-scm.com)**
--   **[Wokwi](https://gcc.gnu.org)**
 
 
 ---
