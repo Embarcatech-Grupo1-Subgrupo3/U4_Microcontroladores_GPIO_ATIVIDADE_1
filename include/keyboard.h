@@ -2,7 +2,7 @@
 #define KEYBOARD_H
 
 // altere conforme necessario
-void keyboard_init(void);
-int keyboard_read(void);
+void keyboard_init();
+char keyboard_get_key();
 
 #endif
