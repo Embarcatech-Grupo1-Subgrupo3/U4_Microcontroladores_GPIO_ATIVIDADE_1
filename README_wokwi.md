@@ -11,11 +11,11 @@ GND.6
 (fonte: https://github.com/BitDogLab/BitDogLab.git)
 
 --teclado--
-L1: GP8
-L2: GP7
-L3: GP6
-L4: GP5
-C1: GP4
-C2: GP3
-C3: GP2
-C4: CP1
+L1: GP4
+L2: GP8
+L3: GP9
+L4: GP28
+C1: GP16
+C2: GP17
+C3: GP18
+C4: GP19
