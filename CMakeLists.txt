@@ -1,3 +1,17 @@
+# == DO NOT EDIT THE FOLLOWING LINES for the Raspberry Pi Pico VS Code Extension to work ==
+if(WIN32)
+    set(USERHOME $ENV{USERPROFILE})
+else()
+    set(USERHOME $ENV{HOME})
+endif()
+set(sdkVersion 2.1.0)
+set(toolchainVersion 13_3_Rel1)
+set(picotoolVersion 2.1.0)
+set(picoVscode ${USERHOME}/.pico-sdk/cmake/pico-vscode.cmake)
+if (EXISTS ${picoVscode})
+    include(${picoVscode})
+endif()
+# ====================================================================================
 # Generated Cmake Pico project file
 
 cmake_minimum_required(VERSION 3.13)
@@ -35,12 +49,7 @@ pico_sdk_init()
 
 # Add executable. Default name is the project name, version 0.1
 
-add_executable(tarefa_1U4 
-    tarefa_1U4.c 
-    feature/buzzer.c 
-    feature/keyboard.c 
-    feature/led.c
-)
+add_executable(tarefa_1U4 tarefa_1U4.c)
 
 pico_set_program_name(tarefa_1U4 "tarefa_1U4")
 pico_set_program_version(tarefa_1U4 "0.1")
@@ -50,14 +59,12 @@ pico_enable_stdio_uart(tarefa_1U4 0)
 pico_enable_stdio_usb(tarefa_1U4 1)
 
 # Add the standard library to the build
-target_link_libraries(tarefa_1U4
-    pico_stdlib
-)
+target_link_libraries(tarefa_1U4 pico_stdlib hardware_pwm)
+
 
 # Add the standard include files to the build
 target_include_directories(tarefa_1U4 PRIVATE
     ${CMAKE_CURRENT_LIST_DIR}
-    ${CMAKE_CURRENT_LIST_DIR}/include
 )
 
 # Add any user requested libraries

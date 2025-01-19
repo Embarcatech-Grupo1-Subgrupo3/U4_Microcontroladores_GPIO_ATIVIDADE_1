@@ -1,0 +1,38 @@
+[wokwi]
+version = "1.0"
+elf = "./build/tarefa_1U4.elf"
+firmware = "./build/tarefa_1U4.hex"
+
+name = "Projeto LEDs e Buzzer com Raspberry Pi Pico W"
+description = "Simulação de controle de LEDs e buzzer usando Raspberry Pi Pico W com teclado matricial"
+microcontroller = "pico"
+
+[dependencies]
+
+[pinout]
+GP11 = "LED1"
+GP12 = "LED2"
+GP13 = "LED3"
+GP21 = "Buzzer"
+GP4  = "Keypad_R1"
+GP8  = "Keypad_R2"
+GP9  = "Keypad_R3"
+GP28 = "Keypad_R4"
+GP16 = "Keypad_C1"
+GP17 = "Keypad_C2"
+GP18 = "Keypad_C3"
+GP19 = "Keypad_C4"
+
+[connections]
+LED1 = { pin = "GP11", type = "LED", color = "blue" }
+LED2 = { pin = "GP12", type = "LED", color = "red" }
+LED3 = { pin = "GP13", type = "LED", color = "green" }
+Buzzer = { pin = "GP21", type = "Buzzer", volume = "0.1" }
+Keypad_R1 = { pin = "GP4", type = "Keypad_Row", row = "1" }
+Keypad_R2 = { pin = "GP8", type = "Keypad_Row", row = "2" }
+Keypad_R3 = { pin = "GP9", type = "Keypad_Row", row = "3" }
+Keypad_R4 = { pin = "GP28", type = "Keypad_Row", row = "4" }
+Keypad_C1 = { pin = "GP16", type = "Keypad_Column", column = "1" }
+Keypad_C2 = { pin = "GP17", type = "Keypad_Column", column = "2" }
+Keypad_C3 = { pin = "GP18", type = "Keypad_Column", column = "3" }
+Keypad_C4 = { pin = "GP19", type = "Keypad_Column", column = "4" }
