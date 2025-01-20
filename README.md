@@ -155,7 +155,7 @@ $ Para o funcionamento do projeto na placa será necessário um Teclado Matricia
 <p align="center"><img width="700" height="400" src="https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_1/blob/main/assets/Captura%20de%20Tela%20(39).png"></p>
 
 ### 💿 Video do projeto
-<p align="center"><video ></p>
+
 
 ---
 
