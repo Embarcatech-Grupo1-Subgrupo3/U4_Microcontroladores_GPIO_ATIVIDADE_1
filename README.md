@@ -20,6 +20,8 @@ Tabela de conteúdos
    * [Como executar o projeto](#-como-executar-o-projeto)
      * [Pré-requisitos](#-pré-requisitos)
    * [Imagens do Projeto](#-imagens-do-projeto)
+     * [Imagem](#-projeto-na-extensão-wokwi-simulator-no-visual-studio)
+     * [Vídeo](#-video-do-projeto)
    * [Tecnologias](#-tecnologias)
      * [Websites](#-websites)
      * [Utilitários](#user-content-server--nodejs----typescript)
@@ -81,9 +83,10 @@ A Formação Básica em Software Embarcado da Embarcatech é um programa de capa
 ---
 
 ## ⚙️ Funcionalidades
-- Teclado Matricial 4x4
-- Leds liga e desliga
-- Buzzer
+- Teclado matricial 4x4.
+- 03 LEDs – tipo RGB.
+- Componente Buzzer.
+- Microcontrolador Raspberry Pi Pico W.
 
 ---
 
@@ -141,7 +144,7 @@ $ git clone https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladore
 - Copie o arquivo [tarefa_1U4.uf2]() para o armazenamento da placa
 ```bash
 OBS:
-# Para o funcionamento do projeto na placa será necessário um Teclado Matricial 4x4
+$ Para o funcionamento do projeto na placa será necessário um Teclado Matricial 4x4
 ```
 
 ---
