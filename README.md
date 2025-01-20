@@ -1,5 +1,5 @@
-
-<h1 align="center"><img align="center" style="border-radius: 50%;" src="https://moodle.embarcatech.cepedi.org.br/pluginfile.php/1/theme_moove/logo/1733422525/Group%20658.png" width="200px;" alt=""><br/>Microcontrolador</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<h1 align="center"><img align="center" style="border-radius: 50%;" src="https://moodle.embarcatech.cepedi.org.br/pluginfile.php/1/theme_moove/logo/1733422525/Group%20658.png" width="200px;" alt=""><br>Microcontrolador</h1>
 
 <h3 align="center">
     Microcontrolador em Linguagem C
@@ -98,13 +98,49 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) e usar o simulador web [Wokwi](https://wokwi.com) (ou a extensão do Vscode [Wokwi Simulator](https://marketplace.visualstudio.com/items?itemName=Wokwi.wokwi-vscode))
 
-#### 🎲 Rodando o Microcontrolador na sua Máquina
+#### 🎲 Rodando o Microcontrolador no Visual Studio
 
+- Abra o Visual Studio, crie ou selecione uma pasta
 - Abra o terminal de comando Git Bash no VsCode
-- Clone o repositório no seu diretório
+- Clone o repositório no seu diretório:
 ```
 $ git clone https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_1.git
 ```
+- Abra a pasta no Vscode
+- Clique no Arquivo [diagram.json]() e aperte no botão play
+```
+OBS:
+# Para rodar o Wokwi simualator é necessario uma licensa.
+# Digite na aba pesquisar do seu Visual Studio o seguinte comando:
+  >Wokwi: Request a New License
+# faça login e gere uma nova licença
+```
+
+#### 🎲 Rodando o Microcontrolador no Wokwi Web
+
+- Baixe o repositório do Github
+- Descompacte o arquivo .zip
+- Entre no navegador e digite [Wokwi.com](https://gcc.gnu.org)
+- Faça Upload dos Arquivos [diagram.json]()
+- Faça upload das Pastas [./feature]() e [./include]()
+
+
+#### 🎲 Rodando o Microcontrolador na placa BitdogLab
+
+- Abra o Visual Studio, crie ou selecione uma pasta
+- Abra o terminal de comando Git Bash no VsCode
+- Clone o repositório no seu diretório:
+```
+$ git clone https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_1.git
+```
+- Conecte Um cabo USB tipo A na placa para o seu Dispositivo
+- Aperte os botões BOOTSEL e RESET na sua placa ao mesmo tempo para abrir o Armazenamento
+- Copie o arquivo [tarefa_1U4.uf2]() para o armazenamento da placa
+```
+OBS:
+# Para o funcionamento do projeto na placa será necessário 
+```
+
 
 ---
 
@@ -152,4 +188,4 @@ Mentor: MANOEL MESSIAS DA SILVA JUNIOR
 
 Este projeto está sob a licença do SUBGRUPO 3 e seu Lider de Projeto da Formação Básica em Software Embarcado da Embarcatech - Veja o arquivo <a href="https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_1/blob/main/LICENSE">License.md<a/>
 
----
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
