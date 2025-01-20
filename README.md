@@ -53,6 +53,31 @@ A Formação Básica em Software Embarcado da Embarcatech é um programa de capa
 
   - assets/
 
+  - buil/
+    - generated/pico_base/pico
+      - config_autogen.h
+      - version.h
+    - pico-sdk/src/
+      - extra_doxygen/
+        - dreq.h
+        - intctrl.h
+      - rp2040/boot_stage2/
+        - bs2_default.bin
+        - bs2_default.dis
+        - bs2_default.elf
+        - bs2_default_padded_checksummed.S
+    - .ninja_deps
+    - .ninja_log
+    - bs2_default.elf.map
+    - build.ninja
+    - pico_flash_region.ld
+    - tarefa_1U4.bin
+    - tarefa_1U4.dis
+    - tarefa_1U4.elf
+    - tarefa_1U4.elf.map
+    - tarefa_1U4.hex
+    - tarefa_1U4.uf2
+
   - feature/
     - buzzer.c
     - keyboard.c
@@ -155,7 +180,7 @@ $ Para o funcionamento do projeto na placa será necessário um Teclado Matricia
 <p align="center"><img width="700" height="400" src="https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_1/blob/main/assets/Captura%20de%20Tela%20(39).png"></p>
 
 ### 💿 Video do projeto
-
+Link:(https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_1/blob/main/assets/U4_MICROCONTROLADORES%20-%20Vídeo%20demonstrativo%20Atividade%201.mp4)
 
 ---
 
