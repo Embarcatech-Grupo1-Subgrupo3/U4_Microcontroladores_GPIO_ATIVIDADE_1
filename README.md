@@ -221,7 +221,6 @@ Mentor: MANOEL MESSIAS DA SILVA JUNIOR
   <tr>
      <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/178435161?v=4" width="100px;"/><br/><a href="https://github.com/lauracruzz">Laura B. da Cruz<a/><br/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
      <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89869851?v=4" width="100px;"/><br/><a href="https://github.com/GabrielFOV">Gabriel F. O. Viana<a/><br/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
-     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/165080675?v=4" width="100px;"/><br/><a href="https://github.com/2024Nat">Natalia C. Marques <a/><br/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
      <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64041493?v=4" width="100px;"/><br/><a href="https://github.com/jonathanmachado141">Jonathan M. da Silva<a/><br/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
   </tr>
 </table>
