@@ -6,7 +6,7 @@
 </h3>
 
 <h4 align="center">
-	🚧  Em Andamento 🚧
+	🚧 Finalizado 🚧
 </h4>
 
 ---
