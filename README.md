@@ -181,9 +181,11 @@ $ Para o funcionamento do projeto na placa será necessário um Teclado Matricia
 
 ### 💿 Video do projeto
 
-https://github.com/user-attachments/assets/ed4f431b-6702-403b-98f3-6df28fc2a448
 
-Link de dowload video completo:(https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_1/blob/main/assets/U4_MICROCONTROLADORES%20-%20Vídeo%20demonstrativo%20Atividade%201.mp4)
+https://github.com/user-attachments/assets/d45ee098-6e8a-4667-8a74-0be7845ed5a0
+
+- Dowload HD video completo:(https://github.com/Embarcatech-Grupo1-Subgrupo3/U4_Microcontroladores_GPIO_ATIVIDADE_1/blob/main/assets/U4_MICROCONTROLADORES%20-%20Vídeo%20demonstrativo%20Atividade%201.mp4)
+
 
 ---
 
@@ -212,15 +214,15 @@ Mentor: MANOEL MESSIAS DA SILVA JUNIOR
 
 <table>
   <tr>
-    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/113399464?v=4" width="100px;"/><br/><a href="https://github.com/Leo-Luz-code">Leornado R. Luz<a/><br/><sub><sub/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Lider do Projeto">👨‍🚀</a></td>
-    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86336670?v=4" width="100px;"/><br/><a href="https://github.com/ferreiramateusalencar">Mateus A. Ferreira<a/><br/><sub><sub/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
-    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/180613216?v=4" width="100px;"/><br/><a href="https://github.com/Erlon335">Érlon S. Alves Neto<a/><br/><sub><sub/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
-    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/112970376?v=4" width="100px;"/><br/><a href="https://github.com/Dyeorn">João Pedro Jacó<a/><br/><sub> <sub/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/113399464?v=4" width="100px;"/><br/><a href="https://github.com/Leo-Luz-code">Leornado R. Luz<a/><br/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Lider do Projeto">👨‍🚀</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86336670?v=4" width="100px;"/><br/><a href="https://github.com/ferreiramateusalencar">Mateus A. Ferreira<a/><br/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/180613216?v=4" width="100px;"/><br/><a href="https://github.com/Erlon335">Érlon S. Alves Neto<a/><br/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/112970376?v=4" width="100px;"/><br/><a href="https://github.com/Dyeorn">João Pedro Jacó<a/><br/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
   <tr>
-     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/178435161?v=4" width="100px;"/><br/><a href="https://github.com/lauracruzz">Laura B. da Cruz<a/><br/><sub><sub/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
-     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89869851?v=4" width="100px;"/><br/><a href="https://github.com/GabrielFOV">Gabriel F. O. Viana<a/><br/><sub><sub/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
-     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/165080675?v=4" width="100px;"/><br/><a href="https://github.com/2024Nat">Natalia C. Marques <a/><br/><sub><sub/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
-     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64041493?v=4" width="100px;"/><br/><a href="https://github.com/jonathanmachado141">Jonathan M. da Silva<a/><br/><sub><sub/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
+     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/178435161?v=4" width="100px;"/><br/><a href="https://github.com/lauracruzz">Laura B. da Cruz<a/><br/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
+     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89869851?v=4" width="100px;"/><br/><a href="https://github.com/GabrielFOV">Gabriel F. O. Viana<a/><br/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
+     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/165080675?v=4" width="100px;"/><br/><a href="https://github.com/2024Nat">Natalia C. Marques <a/><br/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
+     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64041493?v=4" width="100px;"/><br/><a href="https://github.com/jonathanmachado141">Jonathan M. da Silva<a/><br/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
   </tr>
 </table>
 
